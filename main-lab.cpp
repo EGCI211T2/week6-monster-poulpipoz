@@ -5,7 +5,7 @@ using namespace std;
 
 int main(int argc, char* argv[]) {
   //1. Your monster
-  monster YOU(argv[1],atoi(argv[2]),atoi(argv[3]);
+  monster You(argv[1],atoi(argv[2]),atoi(argv[3]);
 
  //2 other monster
   int i;
